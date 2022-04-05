@@ -1,0 +1,106 @@
+body {
+    font-family: 'Roboto', sans-serif; 
+    /* font-family: 'Raleway', sans-serif; */
+}
+
+.page {
+    color: #757575;
+    background-color: #FFFFFF;
+}
+
+ul {
+    list-style: none;
+}
+
+.title {
+    background: #2F303A;
+    color: #FFFFFF;
+    font-family: 'Roboto', sans-serif, Black;
+}
+
+.text-one {
+    color: #2196f3 ;
+    font-family: 'Raleway', sans-serif, bold;
+}
+.span {
+    color: #212121;
+    font-family: 'Raleway', sans-serif, bold;
+}
+.text-nav {
+    color: #2196f3 ;
+    font-family: 'Roboto', sans-serif, medium;
+}
+.e-address:hover {
+    color: #2196f3 ;
+    font-family: 'Roboto', sans-serif, medium;
+}
+
+.site-nav {
+    font-family: 'Roboto', sans-serif, medium;
+    color: #212121;
+}
+
+.tel {
+    color: #757575;
+    font-family: 'Roboto', sans-serif, medium;
+}
+
+.button {
+    color: #FFFFFF;
+    background-color: #2196f3;
+    font-family: 'Roboto', sans-serif, medium;
+}
+
+button {
+    background-color: #2196f3;
+    color: #FFFFFF;
+    font-family: 'Roboto', sans-serif, bold;
+}
+
+.menu {
+    color: #212121;
+    font-family: 'Roboto', sans-serif, bold; 
+}
+
+.menu-p {
+    color: #757575;
+    font-family: 'Roboto', sans-serif, Regular;
+}
+
+.menu-link{
+    color: #212121;
+    font-family: 'Roboto', sans-serif, medium;
+}
+
+.menu-span {
+    color: #757575;
+    font-family: 'Roboto', sans-serif, Regular;
+}
+
+.address {
+    color: #FFFFFF;
+    font-family: 'Roboto', sans-serif, Regular;
+}
+
+.span-foot {
+    color: #FFFFFF;
+    font-family: 'Raleway', sans-serif, bold;
+}
+
+.contact-link {
+    color: rgba(255, 255, 255, 0.6);
+    font-family: 'Roboto', sans-serif, Regular;
+}
+footer {
+    background-color:#2F303A; 
+   color: #212121;
+   border-bottom: 0px solid;
+}
+
+/* цвет основного текста #212121  */
+/* вторичный цвет #757575 */
+/* белый #FFFFFF */
+/* вторичный белый #FFFFFF 60% */
+/* акцент #2196F3 */
+/* вторичный цвет фона  #E5E5E5 */
+
